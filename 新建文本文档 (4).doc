@@ -1,0 +1,48 @@
+SVG绘制的形状都能被记忆和操作，浏览器可以再次显示
+SVG对于创建图形例如CAD软件是良好的，一旦东西绘制，用户就想去操作它
+
+
+Canvas就像绘制和忘记，一旦绘制完成你不能访问像素和操作它
+Canvas在绘制和忘却的场景例如动画和游戏是良好的
+
+#21-801
+
+AngularJS 通过 ng-directives 扩展了 HTML。
+ng-app 指令定义一个 AngularJS 应用程序。
+ng-model 指令把元素值（比如输入域的值）绑定到应用程序。
+ng-bind 指令把应用程序数据绑定到 HTML 视图。
+
+<li class="pic4" style="background-image:url(imags/bg7.jpg); background-repeat:no-repeat; width: 330px;">
+			<a href="javascript:;">
+				<div class="txt">
+					<p class="p1">作者 : 不会游泳的鱼</p>
+					<p class="p2">我的个人河南之旅 | | 火热之城</p>
+				</div>
+			</a>
+		</li>
+
+
+.part-activitys li:hover img {
+    opacity: .9;
+}
+
+响应式跟随鼠标移动动画效果canvas
+
+Jquery红色背景二级导航菜单鼠标滑过显示下拉菜单
+jQuery网页右下角360度圆形旋转导航菜单代码
+
+
+id="part-floor_cat_1" part-floor_cat_2
+
+data-id="part-floor_cat_1"
+
+
+ 
+
+手机div <div class="part-smart" id="part-floor_cat_1"> </div>
+
+<li class="elevator2 show" data-id="part-floor_cat_1" data-monitor="left_2f_click">
+
+穿戴<div class="part-smart" id="part-floor_cat_2">  </div>
+
+<li class="elevator3 show" data-id="part-floor_cat_2" data-monitor="left_3f_click">
